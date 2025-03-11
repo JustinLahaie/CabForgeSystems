@@ -1,0 +1,11 @@
+---
+description: webstore
+globs: 
+alwaysApply: false
+---
+
+# Your rule content
+Webstore will be with Stripe. 
+
+- You can @ files here
+- You can use markdown but dont have to
